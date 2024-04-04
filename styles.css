@@ -49,10 +49,10 @@ a {
   display: grid;
   border-radius: var(--border-radius);
   margin: auto;
-  /* width: fit-content; */
 }
 .cards-container {
   background-color: inherit;
+  /* can add more cards */
   display: grid;
   place-items: center;
   place-content: center;
